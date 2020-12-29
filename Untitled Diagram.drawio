@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T03:53:48.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="SBF_tFq3VGjizPx0ZMeC" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-29T04:20:53.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6eOCWM7j813pDi9j3fz-" version="13.10.3" type="github">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -202,6 +202,16 @@
         </mxCell>
         <mxCell id="jyipp_2WfXr9Q36Wqz55-67" value="弹性网卡" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1035" y="605" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jyipp_2WfXr9Q36Wqz55-73" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jyipp_2WfXr9Q36Wqz55-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="685" as="sourcePoint" />
+            <mxPoint x="1120" y="635" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="660" />
+              <mxPoint x="1080" y="660" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
